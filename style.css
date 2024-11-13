@@ -1,0 +1,13 @@
+body {
+	background-color: #0A0F0D;
+	color: #C4CBCA;
+}
+p {
+	text-align: justify;
+}
+img {
+	width: 95%;
+}
+.container {
+	display:inline-flex;
+}
